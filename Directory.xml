@@ -3,4 +3,5 @@
     <tree name="\eureka-server" text="01-服务注册中心" info="<b>Code:8*****</b>"/>
     <tree name="\zipkin-server" text="02-链路追踪服务中心" info="<b>Code:8*****</b>"/>
     <tree name="\user-service" text="03-服务提供者" info="<b>Code:8*****</b>"/>
+    <tree name="\gateway-service" text="04-服务网关" info="<b>Code:8*****</b>"/>
 </tree>
